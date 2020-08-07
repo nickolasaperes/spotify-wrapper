@@ -1,5 +1,7 @@
 # Spotify Wrapper
 
+[![Build Status](https://travis-ci.com/nickolasaperes/spotify-wrapper.svg?token=s1xpK6rUUx4NpCCHspps&branch=master)](https://travis-ci.com/nickolasaperes/spotify-wrapper)
+
 A wrapper to work with the [Spotify Web API](https://developer.spotify.com/web-api/).
 
 ## Browser Support
