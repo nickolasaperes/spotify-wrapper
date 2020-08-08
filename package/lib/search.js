@@ -5,10 +5,12 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.searchPlaylists = exports.searchTracks = exports.searchAlbums = exports.searchArtists = exports.search = void 0;
 
-var _config = require("./config");
+var _config = _interopRequireDefault(require("./config"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
 var search = function search(query, type) {
-  return fetch("".concat(_config.API_URL, "/search?q=").concat(query, "&type=").concat(type), _config.HEADERS).then(function (data) {
+  return fetch("".concat(_config["default"], "/search?q=").concat(query, "&type=").concat(type)).then(function (data) {
     return data;
   });
 };

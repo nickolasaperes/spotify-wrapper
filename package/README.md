@@ -26,16 +26,6 @@ $ npm install spotify-wrapper --save
 
 ## How to use
 
-### Spotify Token
-
-Generate Token to use de Spotify API. Select [Get Token](https://developer.spotify.com/console/get-search-item/?q=tania%20bowra&type=artist&market=&limit=&offset=) and login with a valid account. Add generated token in src/config.js
-
-Run build.
-
-```sh
-$ npm run build:all
-```
-
 ### ES6
 
 ```js
