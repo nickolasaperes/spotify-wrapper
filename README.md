@@ -2,9 +2,7 @@
 
 # Spotify Wrapper
 
-[![Build Status](https://travis-ci.com/nickolasaperes/spotify-wrapper.svg?token=s1xpK6rUUx4NpCCHspps&branch=master)](https://travis-ci.com/nickolasaperes/spotify-wrapper)
-
-[![Coverage Status](https://coveralls.io/repos/github/nickolasaperes/spotify-wrapper/badge.svg?branch=master)](https://coveralls.io/github/nickolasaperes/spotify-wrapper?branch=master)
+[![Build Status](https://travis-ci.com/nickolasaperes/spotify-wrapper.svg?token=s1xpK6rUUx4NpCCHspps&branch=master)](https://travis-ci.com/nickolasaperes/spotify-wrapper) &nbsp; [![Coverage Status](https://coveralls.io/repos/github/nickolasaperes/spotify-wrapper/badge.svg?branch=master)](https://coveralls.io/github/nickolasaperes/spotify-wrapper?branch=master)
 
 A wrapper to work with the [Spotify Web API](https://developer.spotify.com/web-api/).
 
