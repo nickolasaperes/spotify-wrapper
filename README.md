@@ -1,3 +1,5 @@
+# THIS IS A DEMO AND SHOULD NOT BE USED IN PRODUCTION!
+
 # Spotify Wrapper
 
 [![Build Status](https://travis-ci.com/nickolasaperes/spotify-wrapper.svg?token=s1xpK6rUUx4NpCCHspps&branch=master)](https://travis-ci.com/nickolasaperes/spotify-wrapper)
