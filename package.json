@@ -70,5 +70,6 @@
     "sinon-stub-promise": "^4.0.0",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
-  }
+  },
+  "dependencies": {}
 }
